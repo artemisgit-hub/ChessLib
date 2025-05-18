@@ -1,0 +1,5 @@
+chesslib\chess\PartidaRepository.class
+chesslib\chess\PartidaController.class
+chesslib\chess\PdfService.class
+chesslib\chess\Partida.class
+chesslib\chess\ChessApplication.class
